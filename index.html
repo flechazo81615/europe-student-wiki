@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="給交換學生與自由行旅人的歐洲生活、城市與交通知識庫。">
+  <title>Europe Student Wiki｜歐洲交換生指南</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html"><span class="brand-mark">E</span><span>EUROPE <b>STUDENT WIKI</b></span></a>
+    <button class="menu-toggle" aria-label="開啟導覽選單" aria-expanded="false">☰</button>
+    <nav class="main-nav" aria-label="主要導覽">
+      <a href="#guides">城市指南</a><a href="#essentials">交換生活</a><a href="#about">關於本站</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">THE EXCHANGE STUDENT'S FIELD GUIDE</p>
+        <h1>把歐洲生活，<br><em>過成自己的風景。</em></h1>
+        <p class="hero-intro">從城市探索、跨國交通到日常生活，整理交換學生真正用得上的歐洲實用知識。</p>
+        <a class="button button-dark" href="#guides">探索 Wiki <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="hero-art" role="img" aria-label="歐洲旅行城市與地圖的編輯風格插畫">
+        <div class="sun"></div><div class="hero-stamp">STUDY<br>· TRAVEL<br>· DISCOVER</div>
+        <div class="postcard">
+          <div class="postcard-sky"></div><div class="postcard-roof roof-one"></div><div class="postcard-roof roof-two"></div>
+          <div class="postcard-building"></div><div class="postcard-window"></div>
+          <span class="postcard-label">A LITTLE MORE EUROPE</span>
+        </div>
+        <span class="hero-note">從布爾諾出發<br>探索更多可能。</span>
+      </div>
+    </section>
+
+    <section class="intro-strip">
+      <p>MADE FOR CURIOUS STUDENTS</p>
+      <span>實用資訊 × 旅行靈感 × 交換生活</span>
+    </section>
+
+    <section class="section" id="guides">
+      <div class="section-heading">
+        <div><p class="eyebrow">DESTINATION NOTES</p><h2>城市靈感 <span>／</span> City Guides</h2></div>
+        <p class="section-desc">先從中歐出發，再慢慢把地圖往外延伸。</p>
+      </div>
+      <label class="search-box"><span aria-hidden="true">⌕</span><input id="guide-search" type="search" placeholder="搜尋城市或關鍵字，例如：布拉格、交通…" aria-label="搜尋指南"></label>
+      <div class="guide-grid" id="guide-grid">
+        <a class="guide-card featured" href="pages/brno.html" data-search="brno 布爾諾 捷克 交換生活 大學">
+          <div class="card-art art-brno"><span class="art-sun"></span><span class="art-tower">♜</span><small>CZECH REPUBLIC · 01</small></div>
+          <div class="card-body"><span class="tag">交換生活</span><h3>布爾諾 Brno</h3><p>從大學城開始，熟悉捷克的日常節奏。</p><span class="card-link">閱讀指南 ↗</span></div>
+        </a>
+        <a class="guide-card" href="pages/prague.html" data-search="prague 布拉格 捷克 城市 旅遊">
+          <div class="card-art art-prague"><span class="art-sun"></span><span class="art-tower">♜</span><small>CZECH REPUBLIC · 02</small></div>
+          <div class="card-body"><span class="tag">城市散策</span><h3>布拉格 Prague</h3><p>沿著伏爾塔瓦河，走進百塔之城。</p><span class="card-link">閱讀指南 ↗</span></div>
+        </a>
+        <a class="guide-card" href="pages/vienna.html" data-search="vienna 維也納 奧地利 音樂 城市">
+          <div class="card-art art-vienna"><span class="art-sun"></span><span class="art-tower">♜</span><small>AUSTRIA · 03</small></div>
+          <div class="card-body"><span class="tag">城市散策</span><h3>維也納 Vienna</h3><p>古典建築、咖啡館與城市日常。</p><span class="card-link">閱讀指南 ↗</span></div>
+        </a>
+        <a class="guide-card" href="pages/barcelona.html" data-search="barcelona 巴塞隆納 西班牙 高第 海邊">
+          <div class="card-art art-barcelona"><span class="art-sun"></span><span class="art-tower">⌁</span><small>SPAIN · 04</small></div>
+          <div class="card-body"><span class="tag">城市散策</span><h3>巴塞隆納 Barcelona</h3><p>在高第的曲線與地中海陽光之間。</p><span class="card-link">閱讀指南 ↗</span></div>
+        </a>
+      </div>
+      <p class="empty-state" id="empty-state" hidden>找不到符合的指南，試試其他關鍵字。</p>
+    </section>
+
+    <section class="essentials" id="essentials">
+      <div class="section-heading">
+        <div><p class="eyebrow">BEYOND THE POSTCARD</p><h2>交換生活必備知識</h2></div>
+      </div>
+      <div class="essentials-grid">
+        <article><span class="essential-no">01</span><h3>跨國交通</h3><p>認識火車、巴士、訂票平台與跨境移動前的檢查事項。</p></article>
+        <article><span class="essential-no">02</span><h3>日常生活</h3><p>從超市、手機門號到付款方式，建立自己的生活節奏。</p></article>
+        <article><span class="essential-no">03</span><h3>旅行預算</h3><p>記錄交通、住宿與餐飲支出，讓每趟旅程更有掌握。</p></article>
+      </div>
+    </section>
+
+    <section class="about-section" id="about">
+      <p class="eyebrow">ABOUT THIS WIKI</p><h2>不是打卡清單，<br>而是一本持續更新的旅人筆記。</h2>
+      <p>Europe Student Wiki 以交換學生的實際需求為出發點。每篇指南採用一致的內容架構，並保留官方查證連結與更新日期，讓知識可以被持續整理、補充與延伸。</p>
+    </section>
+  </main>
+
+  <footer class="site-footer"><a class="brand" href="index.html"><span class="brand-mark">E</span><span>EUROPE <b>STUDENT WIKI</b></span></a><span>MAKE EVERY JOURNEY A LEARNING EXPERIENCE.</span><span>© 2026 Europe Student Wiki</span></footer>
+  <script src="js/main.js"></script>
+</body>
+</html>
