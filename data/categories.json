@@ -1,0 +1,17 @@
+[
+  {
+    "id": "city-guide",
+    "name": "城市指南",
+    "description": "認識歐洲城市與街區"
+  },
+  {
+    "id": "student-life",
+    "name": "交換生活",
+    "description": "交換期間的日常實用資訊"
+  },
+  {
+    "id": "transport",
+    "name": "交通移動",
+    "description": "火車、巴士與市區交通"
+  }
+]
