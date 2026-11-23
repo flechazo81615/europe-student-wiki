@@ -10,6 +10,7 @@
 | 2026-11-23 | New PID Tariff from 1 January 2026 | PID | Prague／交通 | 2026-01-01 | 2026-11-23 | 初步通過，待完整審查 | cities/prague.md |
 | 2026-11-23 | Living and Studying in Vienna | University of Vienna | Vienna／住宿、飲食、預算 | 未標示 | 2026-11-23 | 初步整理完成，待審查 | cities/vienna.md |
 | 2026-11-23 | Estimated living costs | WU Vienna | Vienna／住宿、飲食、預算 | 2026 年估算 | 2026-11-23 | 初步整理完成，待審查 | cities/vienna.md |
+| 2026-11-23 | Cost of living in Catalonia | Generalitat de Catalunya | Barcelona／住宿、飲食、交通、預算 | 2026 年參考價格 | 2026-11-23 | 初步整理完成，待獨立審查 | cities/barcelona.md |
 
 ## 每批匯入紀錄模板
 
