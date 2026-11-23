@@ -11,10 +11,39 @@
 
 ## 2. 交通與票券
 
-- 市區交通：
-- 交通票券：
-- 購票方式：
-- 來源：
+### 交通票價制度
+
+Brno 的公共運輸屬於 IDS JMK（Integrovaný dopravní systém Jihomoravského kraje），採用依照票價區域及有效時間計算的制度。
+
+Brno 市區主要涉及 100、101 兩個票價區域。購票時應確認行程經過的區域及票券有效時間。
+
+### 常見單程票價
+
+依照 2026 年 10 月 1 日生效的官方票價表：
+
+| 票券種類 | 有效時間 | 全票價格 |
+|---|---:|---:|
+| 2 區票 | 15 分鐘 | 20 CZK |
+| 2 區票 | 60 分鐘 | 25 CZK |
+| 3 區票 | 90 分鐘 | 33 CZK |
+
+### 學生定期票
+
+官方票價表列出 18–26 歲學生的優惠票價。Brno 100 + 101 區域的電子月票價格為 275 CZK，季票為 685 CZK。
+
+購買前仍須確認學生身分證明及適用條件。
+
+### 注意事項
+
+- 票券須符合行程所經過的票價區域及有效時間。
+- 轉乘票與不可轉乘票的使用規則不同。
+- 優惠資格及適用條件應以最新 IDS JMK 官方票價規章為準。
+
+### 來源
+
+- IDS JMK, *Tariff of the Integrated Transport System of the South Moravian Region*, valid from 1 October 2026.
+- https://www.dpmb.cz/sites/default/files/downloads/2026/10/tarif_dpmb_1_10.pdf
+- 查閱日期：2026-11-23
 
 ## 3. 住宿及生活區域
 
